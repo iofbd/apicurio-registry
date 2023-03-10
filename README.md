@@ -4,7 +4,7 @@
 
 ![Apicurio Registry](.assets/apicurio_registry_logo_default.svg)
 
-An API/Schema registry - stores and retrieves APIs and Schemas.
+An API/Schema registry - stores and retrieves APIs and Schemas. Hello.
 
 ## Build Configuration
 
